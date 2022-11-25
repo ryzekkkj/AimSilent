@@ -11,7 +11,7 @@ local SilentAimSettings = {
     Enabled = true,
     
     ClassName = "Punished Aim - dx rlq'#0477 ",
-    ToggleKey = "p",
+    ToggleKey = "Insert",
     
     TeamCheck = false,
     VisibleCheck = false, 
